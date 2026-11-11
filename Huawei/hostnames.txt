@@ -282,6 +282,7 @@ isdpcloud-beta.sd.huawei.com
 iservice.vmall.com
 ishareagency.crm.huawei.com
 isurvey.huawei.com
+itriniry-cn-tob.c.huawei.com
 itsc-china.sd.huawei.com
 iw.consumer.huawei.com
 job.apistore.huaweicloud.com
